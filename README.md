@@ -11,4 +11,4 @@ The R script, `run_analysis.R` can be run as long as the "UCI HAR Dataset" (i.e.
 
 The end result is shown in the file `tidy.txt`.
 
-#IMPORTANT requires plyr package
+IMPORTANT requires plyr package
