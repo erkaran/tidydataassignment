@@ -68,5 +68,5 @@ all_data <- cbind(x_extract, y_all, subject_all)
 library(plyr)
 
 tidy <- ddply(.data = all_data, .variables = c("subject", "activity"), .fun = numcolwise(mean))
-
+###writing to tidy.txt
 write.table(tidy, "tidy.txt", row.names = FALSE)
