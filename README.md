@@ -1,4 +1,4 @@
-# tidydataassignment
+# tidy data assignment
 
 This is my submission for the course project of the Getting and Cleaning Data Coursera course from Johns Hopkins University.
 The R script, `run_analysis.R` can be run as long as the "UCI HAR Dataset" (i.e. where data is present) is  your working directory. It does the following:
